@@ -1,0 +1,35 @@
+{
+  "name": "jokeapi",
+  "version": "1.0.0",
+  "description": "It's a joke API and it makes a random joke.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "joke",
+    "api",
+    "joke-api",
+    "jokeapi",
+    "prank",
+    "discord.js",
+    "nodejs"
+  ],
+  "author": "claritz#6164",
+  "license": "MIT",
+  "dependencies": {
+    "cross-fetch": "^3.1.4"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claritzz/jokeapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/claritzz/jokeapi/issues"
+  },
+  "homepage": "https://github.com/claritzz/jokeapi#readme"
+}
